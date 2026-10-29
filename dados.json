@@ -1,0 +1,22 @@
+[
+  {
+    "nome": "Jurandir",
+    "idade": 81,
+    "solteiro": true
+  },
+  {
+    "nome": "Creusa",
+    "idade": 77,
+    "solteiro": false
+  },
+  {
+    "nome": "Alceu",
+    "idade": 85,
+    "solteiro": false
+  },
+  {
+    "nome": "Zuleica",
+    "idade": 79,
+    "solteiro": true
+  }
+]
